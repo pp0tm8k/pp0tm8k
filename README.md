@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pp0tm8k
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning full stack data science
-- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me via email
 
 <!---
