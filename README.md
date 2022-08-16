@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pp0tm8k
+- 👋 Hi, I’m Priyanka
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning full stack data science
 - 📫 How to reach me via email palpriyanka00029@gmail.com
